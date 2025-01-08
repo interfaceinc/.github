@@ -1,3 +1,7 @@
-## Heart Hands
+## Interface, Inc
 
-We are always looking for talented and dedicated talents to [join the team](https://hearthands.tech/we-are-hiring).
+Welcome to our GitHub!
+
+We are assembling a team of dedicated and talented people to build the future of AI interfaces.
+
+Want to know more? → https://interface.inc
